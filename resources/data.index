@@ -1,0 +1,2000 @@
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1916.55,"date":"2016-10-01","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8331.5,"date":"2015-12-13","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5079.68,"date":"2016-02-01","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8204.67,"date":"2016-09-21","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3546.41,"date":"2016-10-13","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7373.96,"date":"2016-10-13","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4281.16,"date":"2016-04-21","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":563.59,"date":"2016-07-30","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2847.4,"date":"2016-05-13","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5691.57,"date":"2016-04-06","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6907.97,"date":"2016-03-17","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3303.73,"date":"2016-05-01","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1216.69,"date":"2016-07-06","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3485.99,"date":"2016-01-26","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6694.2,"date":"2015-12-16","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7354.24,"date":"2016-03-24","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7788.25,"date":"2016-10-28","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5266.38,"date":"2016-07-10","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3789.65,"date":"2016-07-21","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8514.26,"date":"2016-09-26","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3896.1,"date":"2016-06-03","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3672.7,"date":"2015-12-26","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7115.51,"date":"2016-10-21","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7290.42,"date":"2016-05-10","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7708.06,"date":"2016-08-19","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4388.24,"date":"2016-05-16","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1816.23,"date":"2016-03-17","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3060.1,"date":"2016-10-09","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7890.95,"date":"2016-02-15","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9224.72,"date":"2016-01-03","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2913.68,"date":"2015-12-18","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6799.79,"date":"2016-05-30","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8139.16,"date":"2016-10-06","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5967.65,"date":"2016-07-21","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1379.95,"date":"2016-07-19","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6624.81,"date":"2016-01-29","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1761.11,"date":"2016-04-01","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6300.52,"date":"2016-08-06","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6818.62,"date":"2016-11-25","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4847.16,"date":"2016-02-04","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7968.09,"date":"2016-01-19","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7829.69,"date":"2016-02-15","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6077.07,"date":"2016-11-13","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9219.46,"date":"2016-04-08","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6780.04,"date":"2016-05-01","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9650.21,"date":"2015-12-24","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9563.49,"date":"2016-09-16","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8896.75,"date":"2016-07-12","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6648.44,"date":"2016-03-10","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2462.93,"date":"2016-03-02","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3368.75,"date":"2015-12-22","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1995.41,"date":"2016-05-22","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4920.81,"date":"2016-06-18","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4555.77,"date":"2016-10-13","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5239.17,"date":"2016-06-15","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5495.52,"date":"2016-07-11","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5356.79,"date":"2016-09-20","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1451.44,"date":"2016-09-11","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7987.79,"date":"2016-03-17","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4762.3,"date":"2016-09-07","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3609.97,"date":"2016-07-08","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1100.34,"date":"2016-05-08","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8115.0,"date":"2016-05-10","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6245.17,"date":"2016-02-09","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7248.11,"date":"2016-03-13","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1195.67,"date":"2016-03-30","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4494.9,"date":"2016-05-16","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2887.49,"date":"2016-04-16","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6488.68,"date":"2016-05-25","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6333.35,"date":"2016-05-05","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1849.02,"date":"2016-02-12","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4473.72,"date":"2015-12-18","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9688.28,"date":"2016-09-06","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1735.25,"date":"2016-03-22","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4921.27,"date":"2016-08-26","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2139.11,"date":"2016-03-15","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8173.61,"date":"2016-05-29","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":715.88,"date":"2016-06-10","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6390.5,"date":"2016-09-14","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5969.39,"date":"2016-05-29","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3538.34,"date":"2015-12-22","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2911.83,"date":"2016-09-09","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8780.96,"date":"2016-03-16","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1931.23,"date":"2016-03-30","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4235.27,"date":"2016-02-08","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3583.05,"date":"2015-12-30","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5649.43,"date":"2016-02-24","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4563.77,"date":"2016-07-12","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9215.83,"date":"2016-09-05","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3984.83,"date":"2016-02-15","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6235.82,"date":"2016-10-09","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4769.06,"date":"2016-02-10","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3163.47,"date":"2016-04-30","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9195.81,"date":"2016-02-06","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1428.12,"date":"2016-09-30","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5600.91,"date":"2016-08-11","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8653.57,"date":"2016-04-30","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5515.19,"date":"2016-11-19","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":919.08,"date":"2016-07-12","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6120.73,"date":"2016-07-01","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":59.66,"date":"2016-04-02","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":499.98,"date":"2016-05-08","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":905.67,"date":"2016-06-09","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9084.03,"date":"2016-04-12","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9672.69,"date":"2016-02-17","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1193.98,"date":"2016-05-02","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2210.08,"date":"2016-09-11","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2123.54,"date":"2016-04-05","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4327.53,"date":"2016-10-01","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":77.3,"date":"2016-11-21","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9984.65,"date":"2016-03-24","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8339.65,"date":"2016-08-26","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6419.41,"date":"2016-11-11","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6449.29,"date":"2016-10-18","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6399.76,"date":"2016-01-06","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":931.52,"date":"2016-05-31","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5021.71,"date":"2016-08-03","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":533.06,"date":"2016-05-23","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":764.99,"date":"2015-12-19","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9071.43,"date":"2016-08-15","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7146.9,"date":"2016-07-17","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5690.03,"date":"2016-10-09","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2221.59,"date":"2016-08-31","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6389.75,"date":"2015-12-13","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9152.82,"date":"2016-05-13","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7048.58,"date":"2016-01-05","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6153.37,"date":"2016-08-26","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2311.42,"date":"2016-06-03","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7752.85,"date":"2015-12-22","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1649.29,"date":"2016-09-17","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6337.46,"date":"2016-06-13","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4239.7,"date":"2016-03-06","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7689.54,"date":"2016-03-15","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1037.6,"date":"2016-08-13","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7932.89,"date":"2016-06-27","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7550.77,"date":"2016-01-06","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1463.28,"date":"2016-09-06","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3530.43,"date":"2016-10-09","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5046.62,"date":"2016-01-21","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3436.66,"date":"2016-01-31","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4008.59,"date":"2016-09-04","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9968.62,"date":"2016-07-16","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1345.94,"date":"2016-09-14","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2027.76,"date":"2016-09-13","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6739.33,"date":"2016-09-15","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1084.59,"date":"2016-10-26","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7505.94,"date":"2016-11-19","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2393.61,"date":"2016-04-28","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7620.38,"date":"2016-08-11","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5250.81,"date":"2016-03-06","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5948.73,"date":"2016-04-17","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5219.81,"date":"2015-12-22","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2025.46,"date":"2016-08-25","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9758.7,"date":"2016-08-28","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5232.99,"date":"2015-12-11","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3471.94,"date":"2016-06-26","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":587.55,"date":"2016-01-02","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4270.52,"date":"2015-12-31","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1604.52,"date":"2016-01-23","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9803.07,"date":"2016-07-30","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4476.94,"date":"2016-06-17","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7229.68,"date":"2016-06-25","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6066.45,"date":"2016-03-27","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3225.85,"date":"2016-06-13","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2109.56,"date":"2016-03-27","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3217.01,"date":"2016-08-17","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2879.78,"date":"2016-10-15","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4649.35,"date":"2016-06-06","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":88.37,"date":"2016-08-24","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1874.43,"date":"2016-09-03","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5997.54,"date":"2016-01-14","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8647.02,"date":"2016-04-19","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8608.77,"date":"2016-10-15","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1477.85,"date":"2016-04-17","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3468.23,"date":"2015-12-13","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8423.71,"date":"2015-12-14","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6929.24,"date":"2015-12-24","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9532.97,"date":"2016-10-05","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1958.09,"date":"2016-08-30","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9341.74,"date":"2016-01-08","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1139.42,"date":"2016-05-31","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1206.42,"date":"2016-01-15","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3583.12,"date":"2016-02-19","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":653.96,"date":"2016-01-01","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9805.44,"date":"2015-12-19","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9745.39,"date":"2016-04-18","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3756.25,"date":"2016-11-11","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2541.16,"date":"2016-03-08","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9808.65,"date":"2016-08-23","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9519.8,"date":"2016-02-18","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6321.66,"date":"2016-03-04","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5576.56,"date":"2016-10-28","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6319.0,"date":"2016-05-26","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7820.01,"date":"2016-02-26","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7509.3,"date":"2016-01-13","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7561.52,"date":"2016-11-16","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8535.9,"date":"2015-12-19","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4486.71,"date":"2016-07-06","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6679.06,"date":"2016-11-14","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9402.49,"date":"2016-01-02","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1402.4,"date":"2016-11-04","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4991.15,"date":"2015-12-08","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9837.55,"date":"2016-04-04","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6462.3,"date":"2016-03-06","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":584.99,"date":"2016-09-05","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":14.92,"date":"2016-02-10","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8721.42,"date":"2016-11-25","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6627.16,"date":"2016-08-09","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3097.6,"date":"2016-01-24","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8042.76,"date":"2016-11-09","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9823.68,"date":"2016-06-14","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5208.34,"date":"2016-07-19","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2308.96,"date":"2015-12-27","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7183.95,"date":"2016-02-08","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1606.53,"date":"2016-10-21","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5218.37,"date":"2016-07-29","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8054.08,"date":"2016-10-12","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4114.28,"date":"2016-09-02","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7260.34,"date":"2016-03-28","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5003.45,"date":"2016-07-04","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6985.44,"date":"2016-08-12","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6121.35,"date":"2016-04-28","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4297.97,"date":"2015-12-19","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6212.79,"date":"2016-01-12","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6105.83,"date":"2016-09-05","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3045.51,"date":"2016-10-09","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4976.15,"date":"2016-09-29","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3997.5,"date":"2016-08-21","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7529.1,"date":"2016-02-21","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3610.5,"date":"2016-08-15","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3532.56,"date":"2016-06-23","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5528.35,"date":"2016-08-23","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9365.36,"date":"2016-04-29","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5212.78,"date":"2016-09-21","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6718.98,"date":"2016-01-16","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5541.31,"date":"2016-11-05","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3388.93,"date":"2016-02-08","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5023.19,"date":"2016-03-16","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4975.75,"date":"2015-12-10","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6210.25,"date":"2016-07-19","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2997.42,"date":"2016-04-12","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7415.85,"date":"2016-05-07","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2549.8,"date":"2016-08-26","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6711.04,"date":"2016-08-25","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":692.4,"date":"2016-01-06","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3550.89,"date":"2016-09-02","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":746.06,"date":"2015-12-26","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3958.85,"date":"2016-04-12","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8762.64,"date":"2016-03-06","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5604.86,"date":"2016-01-23","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":884.87,"date":"2016-11-29","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7205.42,"date":"2016-02-06","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2627.47,"date":"2016-02-28","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5443.59,"date":"2016-06-20","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1338.13,"date":"2016-02-22","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6860.44,"date":"2016-05-03","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2913.44,"date":"2016-11-11","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6880.87,"date":"2016-06-23","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":658.02,"date":"2016-11-06","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3181.4,"date":"2016-03-31","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5928.37,"date":"2016-05-20","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7583.92,"date":"2016-04-21","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8348.78,"date":"2016-11-15","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3233.76,"date":"2016-01-06","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2288.34,"date":"2016-06-09","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3449.38,"date":"2016-04-19","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4918.41,"date":"2016-11-17","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4601.39,"date":"2016-04-14","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4067.76,"date":"2016-05-29","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9277.13,"date":"2016-09-04","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3356.96,"date":"2016-01-18","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5258.5,"date":"2016-10-27","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8907.81,"date":"2016-04-24","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4318.25,"date":"2016-04-04","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4036.48,"date":"2016-01-11","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7330.73,"date":"2016-06-03","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8973.28,"date":"2016-12-03","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6900.62,"date":"2016-11-05","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":556.49,"date":"2016-09-21","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2468.79,"date":"2016-09-29","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4346.77,"date":"2016-07-29","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":964.3,"date":"2016-02-08","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8943.38,"date":"2016-07-26","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3501.61,"date":"2016-01-16","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3279.85,"date":"2016-01-15","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5795.13,"date":"2016-08-31","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4881.31,"date":"2016-10-28","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7707.78,"date":"2016-10-21","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":347.66,"date":"2016-07-30","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2215.56,"date":"2016-08-07","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2238.08,"date":"2016-11-26","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9603.06,"date":"2016-10-14","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":553.59,"date":"2016-01-04","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2851.61,"date":"2016-10-22","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7639.97,"date":"2016-09-25","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3784.39,"date":"2016-01-04","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":382.67,"date":"2016-08-06","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7179.09,"date":"2016-08-26","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3258.1,"date":"2016-07-05","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8575.65,"date":"2016-11-07","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9577.79,"date":"2016-08-02","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8445.34,"date":"2016-08-23","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7488.02,"date":"2016-09-18","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2956.44,"date":"2016-11-06","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4101.33,"date":"2016-02-14","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2697.83,"date":"2016-07-23","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":699.53,"date":"2016-03-13","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2583.96,"date":"2016-11-18","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4726.36,"date":"2015-12-26","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9225.19,"date":"2016-10-14","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6313.96,"date":"2016-07-16","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2269.28,"date":"2016-08-24","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1290.19,"date":"2016-11-30","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2542.39,"date":"2016-11-20","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8493.73,"date":"2016-12-02","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5419.72,"date":"2016-05-26","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8017.78,"date":"2016-11-26","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8577.44,"date":"2015-12-29","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9439.08,"date":"2016-08-30","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7510.36,"date":"2016-10-13","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5730.94,"date":"2016-01-09","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5581.63,"date":"2015-12-19","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5193.04,"date":"2016-01-15","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":39.5,"date":"2015-12-06","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9072.35,"date":"2016-07-14","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9407.7,"date":"2016-03-09","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2774.71,"date":"2016-03-26","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7669.66,"date":"2016-01-02","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":462.76,"date":"2016-03-03","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6885.2,"date":"2016-10-12","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":427.33,"date":"2016-01-07","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1314.78,"date":"2016-05-14","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5504.71,"date":"2016-01-07","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":243.94,"date":"2016-12-03","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2749.71,"date":"2016-06-25","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3560.36,"date":"2016-11-09","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7048.04,"date":"2016-07-01","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7068.02,"date":"2016-02-16","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":855.03,"date":"2016-08-01","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":39.77,"date":"2016-11-19","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3919.18,"date":"2016-08-28","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8504.53,"date":"2016-11-10","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7105.67,"date":"2015-12-11","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6316.58,"date":"2016-03-07","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3798.65,"date":"2016-11-19","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1797.29,"date":"2016-10-23","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6317.76,"date":"2016-10-20","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5132.11,"date":"2016-09-21","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8940.12,"date":"2016-02-02","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3252.65,"date":"2016-01-05","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4519.07,"date":"2015-12-19","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2588.7,"date":"2016-06-03","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5934.81,"date":"2016-08-29","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":940.02,"date":"2016-06-24","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6221.12,"date":"2016-03-25","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7454.24,"date":"2016-03-21","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9963.03,"date":"2016-03-28","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7153.02,"date":"2016-01-17","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7760.55,"date":"2016-03-04","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1634.54,"date":"2016-07-11","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6619.95,"date":"2016-10-07","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6851.37,"date":"2016-06-26","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4915.39,"date":"2016-10-17","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4618.58,"date":"2016-01-29","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6601.83,"date":"2015-12-18","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2134.39,"date":"2016-01-06","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6268.88,"date":"2016-11-12","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5016.02,"date":"2016-05-13","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6005.01,"date":"2016-08-08","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8531.16,"date":"2015-12-30","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":655.29,"date":"2016-04-11","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7056.13,"date":"2016-01-18","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":256.69,"date":"2016-01-21","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7853.37,"date":"2016-11-08","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2388.27,"date":"2016-02-03","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8660.26,"date":"2016-01-14","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9532.61,"date":"2016-10-19","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7110.19,"date":"2016-06-16","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5134.35,"date":"2016-04-26","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5946.86,"date":"2016-01-23","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":378.56,"date":"2015-12-07","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3169.19,"date":"2016-11-11","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9519.78,"date":"2016-08-06","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4198.83,"date":"2016-10-24","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6490.75,"date":"2016-02-23","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5834.11,"date":"2016-10-22","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3607.74,"date":"2016-09-05","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":874.09,"date":"2016-07-21","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5014.67,"date":"2016-10-24","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1154.76,"date":"2016-01-27","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5503.83,"date":"2016-08-02","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7518.38,"date":"2016-04-09","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4445.3,"date":"2016-03-02","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9786.78,"date":"2015-12-08","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4994.03,"date":"2016-09-18","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2376.86,"date":"2016-08-28","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8635.87,"date":"2016-03-25","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7048.69,"date":"2016-02-29","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9054.7,"date":"2016-10-13","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6399.91,"date":"2016-08-03","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6070.81,"date":"2016-10-28","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1754.48,"date":"2016-02-21","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4031.45,"date":"2016-07-07","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9845.71,"date":"2016-01-24","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9732.82,"date":"2016-03-16","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3911.09,"date":"2016-02-12","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2168.2,"date":"2016-02-17","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5468.44,"date":"2016-11-07","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8718.33,"date":"2015-12-05","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2460.12,"date":"2015-12-23","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4075.47,"date":"2016-10-16","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3082.27,"date":"2016-09-28","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1064.45,"date":"2016-05-11","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6693.26,"date":"2016-02-02","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9488.26,"date":"2016-11-16","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2959.8,"date":"2016-09-01","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6881.1,"date":"2016-08-02","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2405.21,"date":"2015-12-06","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2581.06,"date":"2016-05-21","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":719.46,"date":"2016-05-10","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3404.12,"date":"2016-01-15","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5365.48,"date":"2016-10-21","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3002.8,"date":"2015-12-07","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6190.58,"date":"2016-11-16","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6890.14,"date":"2016-03-09","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8071.91,"date":"2016-01-19","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5175.65,"date":"2016-04-24","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":97.32,"date":"2016-08-19","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6436.18,"date":"2016-08-21","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2797.5,"date":"2016-12-02","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8625.84,"date":"2016-05-15","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3636.73,"date":"2016-09-12","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4146.73,"date":"2016-11-25","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3270.66,"date":"2016-09-24","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4004.19,"date":"2016-01-18","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7786.06,"date":"2016-04-02","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5946.01,"date":"2015-12-05","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":154.99,"date":"2016-03-17","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2681.81,"date":"2016-11-09","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9251.31,"date":"2016-11-06","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7047.94,"date":"2016-04-02","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1251.7,"date":"2016-04-19","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7937.77,"date":"2016-06-27","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8828.46,"date":"2016-12-03","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6929.97,"date":"2016-03-05","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3268.2,"date":"2016-09-04","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5151.7,"date":"2016-08-10","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3091.15,"date":"2015-12-31","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3859.74,"date":"2016-01-05","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2488.7,"date":"2016-08-22","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6817.11,"date":"2016-10-24","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9911.1,"date":"2016-01-18","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2431.89,"date":"2016-09-19","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1434.92,"date":"2016-11-22","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9056.89,"date":"2016-06-26","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9537.25,"date":"2016-07-08","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9236.42,"date":"2016-11-20","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":177.53,"date":"2016-09-24","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3871.34,"date":"2016-10-19","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7201.57,"date":"2016-08-20","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4444.24,"date":"2016-06-02","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9055.42,"date":"2016-06-07","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6126.68,"date":"2016-05-30","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6039.33,"date":"2015-12-21","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4163.85,"date":"2016-02-17","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2599.43,"date":"2016-08-02","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":700.94,"date":"2016-05-31","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7656.09,"date":"2016-01-17","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5461.37,"date":"2016-09-05","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8109.48,"date":"2016-12-01","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8898.97,"date":"2016-03-17","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9953.32,"date":"2016-03-19","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1710.34,"date":"2016-08-22","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":142.11,"date":"2016-07-10","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4101.6,"date":"2016-06-23","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3077.51,"date":"2016-01-25","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8625.92,"date":"2016-02-18","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5042.46,"date":"2016-08-24","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3192.07,"date":"2016-08-22","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6488.1,"date":"2016-04-16","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7688.01,"date":"2016-01-25","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3684.34,"date":"2016-01-24","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3028.17,"date":"2016-05-16","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6410.09,"date":"2016-09-13","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6019.14,"date":"2015-12-07","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5052.37,"date":"2016-08-29","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3465.82,"date":"2016-01-04","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2098.78,"date":"2016-10-07","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6616.99,"date":"2016-08-19","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2983.54,"date":"2016-05-28","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9056.01,"date":"2016-06-22","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5245.52,"date":"2016-08-20","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":442.94,"date":"2016-07-19","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6986.02,"date":"2016-02-10","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1589.55,"date":"2016-05-02","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4213.41,"date":"2016-04-20","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4800.22,"date":"2016-01-15","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6020.37,"date":"2016-04-04","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9951.29,"date":"2016-07-17","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":955.69,"date":"2016-01-26","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4354.98,"date":"2016-07-03","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7276.41,"date":"2016-04-03","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":327.85,"date":"2016-02-25","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1976.92,"date":"2016-01-11","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1835.37,"date":"2016-07-05","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":277.53,"date":"2016-07-12","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5950.13,"date":"2016-06-08","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":599.18,"date":"2016-09-07","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7625.43,"date":"2016-02-03","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7874.57,"date":"2016-10-17","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1291.78,"date":"2016-11-18","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8989.79,"date":"2015-12-25","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2330.04,"date":"2016-03-25","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":969.5,"date":"2016-01-26","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8042.37,"date":"2016-04-02","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7134.82,"date":"2016-06-29","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1900.05,"date":"2016-11-21","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7296.75,"date":"2016-04-16","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6960.99,"date":"2015-12-12","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5512.79,"date":"2016-10-06","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5351.65,"date":"2016-11-10","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2835.54,"date":"2016-01-25","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5927.39,"date":"2016-10-10","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1318.92,"date":"2016-02-03","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":746.58,"date":"2016-11-08","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1515.34,"date":"2016-09-13","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7892.06,"date":"2016-10-02","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4252.94,"date":"2016-02-08","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8198.06,"date":"2016-04-28","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9702.91,"date":"2016-11-12","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6861.14,"date":"2016-03-01","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7591.28,"date":"2016-05-18","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1368.45,"date":"2016-09-26","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5708.01,"date":"2016-07-09","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4669.57,"date":"2016-09-11","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":55.84,"date":"2016-02-11","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4731.54,"date":"2016-05-17","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8326.88,"date":"2016-07-31","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8885.47,"date":"2016-01-17","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":841.13,"date":"2015-12-29","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5374.5,"date":"2016-06-24","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9824.83,"date":"2016-03-26","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5847.54,"date":"2016-04-26","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2868.03,"date":"2016-03-29","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2858.46,"date":"2016-01-07","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5839.01,"date":"2016-08-17","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7410.55,"date":"2016-01-19","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2270.18,"date":"2016-04-18","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6669.83,"date":"2016-04-11","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":773.55,"date":"2016-11-13","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2376.95,"date":"2016-08-01","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6041.53,"date":"2016-09-12","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7842.44,"date":"2016-04-27","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":810.01,"date":"2016-10-20","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2627.64,"date":"2016-08-03","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1478.81,"date":"2016-11-17","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4746.09,"date":"2016-02-14","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9512.61,"date":"2016-10-23","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":762.66,"date":"2016-08-03","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1944.92,"date":"2016-05-12","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8100.4,"date":"2016-12-01","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2022.96,"date":"2016-03-08","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8832.89,"date":"2016-11-21","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":548.29,"date":"2016-11-05","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":167.83,"date":"2015-12-31","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8959.56,"date":"2016-06-20","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3175.11,"date":"2016-10-13","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9358.53,"date":"2016-01-10","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3591.27,"date":"2016-03-02","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4203.18,"date":"2016-10-16","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6539.92,"date":"2016-01-07","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5191.52,"date":"2016-10-25","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4532.61,"date":"2016-02-06","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8917.87,"date":"2016-06-27","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5826.63,"date":"2016-10-30","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7152.33,"date":"2016-06-28","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8112.1,"date":"2016-07-22","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4137.9,"date":"2016-09-10","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5320.54,"date":"2016-05-15","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7843.68,"date":"2016-05-23","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9589.21,"date":"2016-02-26","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8398.78,"date":"2016-09-06","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":670.99,"date":"2016-06-29","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4213.74,"date":"2016-06-22","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1476.97,"date":"2016-06-25","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4561.39,"date":"2015-12-25","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6411.68,"date":"2016-09-13","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5061.88,"date":"2015-12-20","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3103.87,"date":"2016-04-03","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8956.95,"date":"2016-11-13","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9440.0,"date":"2016-08-31","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":237.14,"date":"2016-03-20","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9020.95,"date":"2016-01-17","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2264.47,"date":"2016-05-19","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3341.58,"date":"2016-09-26","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7329.32,"date":"2016-06-24","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6473.43,"date":"2016-05-04","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":275.84,"date":"2016-08-14","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6629.72,"date":"2016-02-29","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":624.65,"date":"2016-05-11","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9241.57,"date":"2016-05-27","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3237.8,"date":"2016-06-05","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9911.08,"date":"2015-12-23","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9054.75,"date":"2016-07-24","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6226.65,"date":"2016-05-07","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3107.25,"date":"2016-02-25","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7171.55,"date":"2016-02-27","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":776.87,"date":"2016-06-13","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1946.62,"date":"2015-12-19","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5290.75,"date":"2016-01-13","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8411.07,"date":"2016-01-06","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7295.15,"date":"2016-07-24","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7770.04,"date":"2016-08-25","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3320.49,"date":"2016-04-07","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4078.09,"date":"2016-08-17","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1254.66,"date":"2016-07-04","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8950.9,"date":"2016-02-15","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":152.31,"date":"2016-03-26","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":424.43,"date":"2016-06-12","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3806.84,"date":"2016-05-08","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":284.34,"date":"2016-08-17","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4630.42,"date":"2016-09-22","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":68.36,"date":"2016-07-27","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7391.89,"date":"2016-09-08","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7998.05,"date":"2016-11-13","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3587.24,"date":"2016-11-15","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2411.07,"date":"2016-05-25","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9431.05,"date":"2016-09-18","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4986.63,"date":"2016-08-14","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5944.0,"date":"2016-11-10","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8382.05,"date":"2016-11-07","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3209.45,"date":"2016-08-20","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7015.1,"date":"2015-12-07","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1747.19,"date":"2016-12-02","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3026.7,"date":"2016-03-22","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2834.56,"date":"2016-07-12","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4825.56,"date":"2016-01-18","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8749.64,"date":"2016-08-09","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6837.54,"date":"2016-01-25","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8461.75,"date":"2016-08-19","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6900.43,"date":"2016-02-02","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3647.62,"date":"2016-09-17","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7484.27,"date":"2016-01-08","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1735.66,"date":"2016-01-18","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6402.14,"date":"2016-03-03","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1431.76,"date":"2016-04-11","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3144.62,"date":"2016-05-26","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9155.29,"date":"2016-08-21","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8166.04,"date":"2016-12-03","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1708.67,"date":"2016-09-16","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":331.59,"date":"2016-11-22","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4848.69,"date":"2016-04-07","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4136.8,"date":"2016-07-14","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2375.92,"date":"2016-03-25","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7302.25,"date":"2016-03-13","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6.56,"date":"2016-06-03","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1970.71,"date":"2016-11-03","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":196.43,"date":"2016-10-03","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9212.83,"date":"2016-01-01","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5398.65,"date":"2016-11-29","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4666.01,"date":"2016-03-16","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5685.94,"date":"2016-11-28","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4969.1,"date":"2016-01-17","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6083.24,"date":"2016-06-16","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6056.31,"date":"2016-03-18","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6399.34,"date":"2016-09-29","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2278.39,"date":"2016-02-24","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1939.08,"date":"2016-01-29","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3940.24,"date":"2016-09-07","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2720.6,"date":"2016-01-07","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3882.45,"date":"2016-01-16","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8527.1,"date":"2016-09-24","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4263.47,"date":"2016-04-10","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9750.8,"date":"2016-10-24","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7609.6,"date":"2016-02-12","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9895.57,"date":"2016-11-20","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9840.75,"date":"2015-12-19","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3123.9,"date":"2016-07-29","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":915.39,"date":"2016-01-25","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8322.7,"date":"2016-04-06","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7853.48,"date":"2016-10-03","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1982.7,"date":"2016-11-02","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6710.97,"date":"2016-04-03","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9326.07,"date":"2015-12-22","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8233.44,"date":"2016-09-16","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1512.05,"date":"2016-11-24","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5007.19,"date":"2016-09-07","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1651.17,"date":"2016-04-20","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5234.01,"date":"2016-01-21","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2991.18,"date":"2016-05-05","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1484.26,"date":"2016-05-14","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6685.67,"date":"2016-07-03","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8921.64,"date":"2016-11-22","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2409.48,"date":"2016-06-13","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3454.9,"date":"2015-12-23","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7877.1,"date":"2016-03-28","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2981.0,"date":"2016-01-22","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8016.02,"date":"2016-09-28","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7507.58,"date":"2016-04-22","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2384.17,"date":"2016-10-12","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1524.08,"date":"2016-05-29","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4471.72,"date":"2016-06-12","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6378.33,"date":"2016-03-18","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1728.38,"date":"2016-01-11","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7797.79,"date":"2016-07-31","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2023.19,"date":"2016-03-19","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5378.99,"date":"2016-07-21","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1730.58,"date":"2015-12-26","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1731.58,"date":"2016-03-29","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7416.18,"date":"2016-03-12","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7328.48,"date":"2016-10-17","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6408.79,"date":"2016-08-28","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2237.96,"date":"2016-06-03","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8264.52,"date":"2016-09-30","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5550.91,"date":"2016-05-12","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1924.91,"date":"2016-05-17","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2672.3,"date":"2016-01-31","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4544.71,"date":"2016-03-16","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1763.99,"date":"2016-03-31","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1622.22,"date":"2016-11-02","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7643.18,"date":"2016-08-23","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4962.93,"date":"2016-04-12","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":763.49,"date":"2016-04-04","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7369.77,"date":"2016-09-05","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":489.78,"date":"2016-01-03","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4968.07,"date":"2016-04-14","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1615.35,"date":"2016-03-10","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1993.31,"date":"2015-12-18","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5548.18,"date":"2016-04-06","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3957.65,"date":"2016-04-11","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4422.13,"date":"2016-05-12","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1812.15,"date":"2016-10-01","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3990.97,"date":"2016-09-16","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6310.87,"date":"2016-03-23","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3424.13,"date":"2016-02-10","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1814.17,"date":"2015-12-23","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7116.24,"date":"2016-09-20","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4433.17,"date":"2015-12-08","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7031.99,"date":"2016-01-01","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7496.6,"date":"2016-07-03","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8472.69,"date":"2016-11-02","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7231.24,"date":"2016-04-07","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3882.52,"date":"2016-05-03","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9891.98,"date":"2016-10-12","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3842.26,"date":"2016-05-14","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5813.5,"date":"2016-04-16","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7124.52,"date":"2016-02-23","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7885.75,"date":"2016-10-06","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2473.51,"date":"2016-10-22","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3364.75,"date":"2016-10-30","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8706.45,"date":"2016-02-19","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6298.6,"date":"2016-10-20","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6826.46,"date":"2016-07-19","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9144.99,"date":"2016-08-16","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":167.38,"date":"2016-11-20","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6278.74,"date":"2016-10-09","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6825.06,"date":"2016-04-11","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1996.33,"date":"2016-08-07","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9568.92,"date":"2016-11-25","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8308.34,"date":"2016-09-19","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8325.4,"date":"2016-04-07","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1588.12,"date":"2016-07-30","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6449.39,"date":"2016-10-01","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1565.12,"date":"2016-01-24","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2848.56,"date":"2016-02-28","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9062.22,"date":"2016-10-29","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":294.77,"date":"2016-08-29","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7308.62,"date":"2016-07-20","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8838.36,"date":"2016-01-22","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8584.83,"date":"2016-07-21","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1842.64,"date":"2016-09-13","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1999.99,"date":"2016-08-15","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1391.1,"date":"2016-06-13","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":862.84,"date":"2016-01-02","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8780.69,"date":"2016-03-26","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9067.46,"date":"2016-08-10","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9690.84,"date":"2015-12-23","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2044.56,"date":"2016-07-15","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9590.6,"date":"2016-02-23","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1458.68,"date":"2016-01-01","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9644.82,"date":"2016-01-14","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5670.95,"date":"2016-01-25","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4917.48,"date":"2016-04-30","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7058.7,"date":"2016-11-07","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4985.43,"date":"2016-08-25","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":963.31,"date":"2016-08-27","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1158.35,"date":"2016-02-02","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8834.5,"date":"2016-04-18","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3488.65,"date":"2016-05-13","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5086.08,"date":"2016-05-08","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1814.81,"date":"2016-02-01","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1896.65,"date":"2016-02-01","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9797.57,"date":"2016-06-15","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9408.59,"date":"2016-03-03","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5873.82,"date":"2015-12-15","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":460.21,"date":"2016-02-21","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4070.37,"date":"2016-06-08","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2691.17,"date":"2016-11-27","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2759.41,"date":"2016-05-31","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7405.32,"date":"2016-08-02","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6951.18,"date":"2016-11-14","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8411.83,"date":"2016-06-24","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6210.6,"date":"2016-04-06","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6511.85,"date":"2016-09-26","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5928.92,"date":"2016-07-28","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5226.65,"date":"2016-06-12","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":614.31,"date":"2016-05-31","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2539.81,"date":"2016-09-27","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6793.04,"date":"2016-05-07","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":151.18,"date":"2016-01-22","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1032.96,"date":"2016-07-04","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5153.71,"date":"2016-10-23","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1958.9,"date":"2015-12-14","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1030.47,"date":"2016-03-10","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8537.31,"date":"2016-03-02","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3916.78,"date":"2016-10-21","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":125.75,"date":"2016-10-02","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":836.53,"date":"2016-05-12","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5634.35,"date":"2016-11-04","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2027.6,"date":"2016-06-24","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6009.61,"date":"2016-10-18","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3856.62,"date":"2016-04-08","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3855.99,"date":"2016-05-30","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8242.97,"date":"2016-02-02","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4263.73,"date":"2015-12-31","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":691.83,"date":"2016-03-05","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8464.22,"date":"2016-10-18","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9074.28,"date":"2016-07-29","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6233.79,"date":"2016-11-02","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5642.91,"date":"2016-02-08","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9087.93,"date":"2015-12-22","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":106.36,"date":"2016-04-18","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8736.95,"date":"2016-04-23","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6243.9,"date":"2016-05-21","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1518.72,"date":"2016-01-19","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2336.73,"date":"2016-04-29","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9878.52,"date":"2016-01-16","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8133.86,"date":"2016-05-13","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4982.21,"date":"2016-05-24","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3200.07,"date":"2016-11-26","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4899.18,"date":"2016-02-20","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5843.25,"date":"2016-09-24","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":278.08,"date":"2016-07-31","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1130.53,"date":"2016-09-17","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8925.03,"date":"2016-09-11","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6901.05,"date":"2016-01-12","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8380.42,"date":"2016-09-12","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4729.96,"date":"2016-01-31","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5499.11,"date":"2016-04-09","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2946.11,"date":"2016-05-01","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1443.66,"date":"2016-08-22","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":243.5,"date":"2016-08-30","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2334.97,"date":"2016-03-16","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5756.33,"date":"2016-06-21","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7875.43,"date":"2016-01-25","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4769.53,"date":"2016-05-07","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5822.32,"date":"2016-10-28","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7822.59,"date":"2016-01-21","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4442.53,"date":"2016-03-01","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8275.8,"date":"2015-12-30","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9937.73,"date":"2016-11-30","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9852.73,"date":"2016-08-25","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2078.43,"date":"2016-08-09","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6548.45,"date":"2016-07-08","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4713.51,"date":"2016-07-11","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9590.05,"date":"2016-03-02","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5496.54,"date":"2016-02-18","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":911.48,"date":"2016-07-02","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3436.22,"date":"2016-12-03","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5955.96,"date":"2016-04-14","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":693.55,"date":"2016-11-01","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1420.21,"date":"2016-04-17","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8832.37,"date":"2016-03-20","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4457.22,"date":"2016-06-14","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1041.3,"date":"2016-07-25","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4416.73,"date":"2016-01-28","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9128.23,"date":"2016-05-26","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3483.67,"date":"2016-01-21","state":"NM","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3258.21,"date":"2015-12-21","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6520.34,"date":"2016-04-12","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2551.32,"date":"2016-08-19","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2840.45,"date":"2016-04-22","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6589.56,"date":"2016-08-15","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3752.23,"date":"2016-09-19","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9375.4,"date":"2016-03-08","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7486.52,"date":"2016-02-08","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1758.42,"date":"2016-08-07","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8465.8,"date":"2016-10-25","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3210.51,"date":"2016-01-23","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2094.8,"date":"2016-03-15","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4124.23,"date":"2016-02-23","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3697.69,"date":"2016-10-30","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6241.41,"date":"2016-03-24","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":929.9,"date":"2016-09-29","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7903.04,"date":"2016-05-12","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5475.82,"date":"2016-05-19","state":"AZ","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4384.18,"date":"2016-07-16","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6759.98,"date":"2016-03-16","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8183.33,"date":"2016-09-09","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":502.06,"date":"2016-06-21","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6752.77,"date":"2016-04-20","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8725.92,"date":"2016-10-23","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8848.56,"date":"2016-01-03","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4162.45,"date":"2016-01-20","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3199.44,"date":"2016-10-28","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9143.32,"date":"2016-11-15","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4536.63,"date":"2016-07-23","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":389.66,"date":"2016-07-27","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6171.76,"date":"2015-12-07","state":"NM","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5679.47,"date":"2016-06-21","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7654.87,"date":"2016-03-17","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1166.81,"date":"2016-10-30","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1368.6,"date":"2016-08-15","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4201.61,"date":"2016-09-17","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":543.89,"date":"2016-10-26","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1740.16,"date":"2016-03-12","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7055.25,"date":"2016-09-15","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5443.16,"date":"2016-11-04","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9151.78,"date":"2016-01-17","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4898.02,"date":"2016-04-10","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6381.5,"date":"2016-05-03","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8269.25,"date":"2016-05-31","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2365.95,"date":"2015-12-21","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6743.11,"date":"2016-06-10","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8261.21,"date":"2016-11-06","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1.39,"date":"2016-10-01","state":"AZ","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":352.24,"date":"2016-04-04","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9373.16,"date":"2016-05-21","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5755.33,"date":"2016-05-09","state":"TX","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8605.51,"date":"2016-04-17","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5019.35,"date":"2016-05-03","state":"NV","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4384.24,"date":"2016-05-28","state":"TX","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2174.91,"date":"2016-08-27","state":"NM","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9405.05,"date":"2016-02-24","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3158.94,"date":"2016-08-26","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1804.94,"date":"2016-09-30","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6201.88,"date":"2016-11-11","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":255.48,"date":"2016-11-15","state":"AZ","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":119.53,"date":"2016-02-17","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8127.63,"date":"2016-08-27","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5406.02,"date":"2016-04-11","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7045.71,"date":"2016-07-04","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4729.4,"date":"2016-01-06","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4069.7,"date":"2016-02-23","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":375.65,"date":"2016-07-09","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":809.71,"date":"2016-07-16","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":677.42,"date":"2016-11-17","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8480.07,"date":"2016-04-09","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6078.14,"date":"2016-12-02","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5710.71,"date":"2016-07-29","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1406.58,"date":"2016-05-26","state":"CO","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3165.8,"date":"2016-11-29","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2793.91,"date":"2016-08-06","state":"CA","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6216.51,"date":"2016-11-18","state":"CO","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1723.86,"date":"2016-11-29","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4657.36,"date":"2016-03-12","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4611.96,"date":"2016-07-02","state":"NM","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7422.69,"date":"2016-04-03","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2335.53,"date":"2016-08-31","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1022.02,"date":"2016-05-06","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8056.07,"date":"2016-11-25","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6431.31,"date":"2016-11-19","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":266.88,"date":"2016-03-06","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5224.09,"date":"2016-05-17","state":"TX","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3599.63,"date":"2015-12-10","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8277.82,"date":"2016-08-28","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3799.66,"date":"2016-02-04","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8202.57,"date":"2016-03-20","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3997.83,"date":"2015-12-06","state":"AZ","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2467.64,"date":"2016-06-09","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2001.83,"date":"2016-03-26","state":"UT","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1061.44,"date":"2015-12-18","state":"UT","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2319.1,"date":"2016-03-25","state":"AZ","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5181.11,"date":"2016-09-06","state":"TX","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6093.25,"date":"2016-10-18","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6485.04,"date":"2015-12-18","state":"UT","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6377.1,"date":"2016-01-24","state":"NV","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5505.19,"date":"2016-11-06","state":"TX","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4397.84,"date":"2016-02-17","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3755.89,"date":"2016-11-06","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3285.56,"date":"2016-01-06","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6398.78,"date":"2016-07-28","state":"NV","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7256.64,"date":"2016-06-23","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":9385.9,"date":"2016-06-16","state":"CA","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3151.78,"date":"2016-10-31","state":"CA","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6967.4,"date":"2016-09-12","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1917.06,"date":"2016-02-12","state":"CO","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3484.05,"date":"2016-01-25","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":5713.3,"date":"2016-11-23","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3759.2,"date":"2016-02-28","state":"CO","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4138.59,"date":"2016-03-25","state":"UT","category":"Prickly Pear"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":7225.28,"date":"2016-03-17","state":"CA","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2363.01,"date":"2016-04-05","state":"CA","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":8780.38,"date":"2016-10-31","state":"CO","category":"Hedgehog"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":2281.67,"date":"2016-03-27","state":"NV","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3700.36,"date":"2015-12-13","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":1934.08,"date":"2016-02-26","state":"NM","category":"Saguaro"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":4061.94,"date":"2016-07-07","state":"UT","category":"Barrel"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":6623.0,"date":"2015-12-19","state":"NV","category":"Cholla"}
+{"index":{"_index":"cactus","_type":"sales"}}
+{"price":3579.05,"date":"2016-06-09","state":"CO","category":"Prickly Pear"}
